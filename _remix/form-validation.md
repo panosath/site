@@ -19,7 +19,7 @@ tags:
 Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
 <hr><br/>
 
-<h2>My version of the exercise</h2>
+<h2>Απάντηση:</h2>
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="panosath" data-slug-hash="Pozembb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form Validation">
   <span>See the Pen <a href="https://codepen.io/panosath/pen/Pozembb">
