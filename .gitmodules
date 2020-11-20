@@ -1,10 +1,10 @@
 [submodule "images"]
 	path = images
-    url = https://github.com/panosath/images
+    url = https://github.com/pibook/_images.git
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/panosath/gallery.git
+	url = https://github.com/pibook/gallery.git
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
