@@ -14,5 +14,7 @@ slides:
   - xerox-star-genealogy
   - xerox-star-pc
   - nls
+  - utorrent
+  - limewire
 ---
 
